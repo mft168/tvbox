@@ -1,6 +1,3 @@
-//http://43.134.172.189:666/f/QWjul/live.txt
-//http://43.134.172.189:666/api/v3/file/get/1408/live.txt?sign=cZbnJg4YRMaaTKwtZojxjnq5egn6JxUKtfDRset-STA%3D%3A1722073010
-
 欣赏频道,#genre#
 抖音姐姐热舞,http://live.metshop.top/douyu/11531165
 庆余年电视剧,http://159.75.85.63:35455/huya/11352960#http://cfss.cc/cdn/hy/11352960.m3u8
